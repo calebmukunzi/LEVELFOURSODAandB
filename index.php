@@ -1,3 +1,3 @@
 <?php
-	require_once("navig.html");
+	require_once("navigationbar.html");
 ?>
